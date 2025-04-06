@@ -1,4 +1,4 @@
-# Stable Diffusion UI
+# ScratchDiffusion UI
 
 A simple web interface for Stable Diffusion image generation.
 
