@@ -49,7 +49,7 @@ cd ui
 python start.py
 ```
 
-2. Access the web interface at http://localhost:5173
+
 
 ## Generating Images
 
